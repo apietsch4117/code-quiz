@@ -9,7 +9,7 @@ This challenge is supposed to help us become familiar with Javascript functional
 Take the quiz and input initials at the end to be added to a scoreboard.
 
 
-![alt text](assets/screenshot.png)
+![alt text](assets/Screenshot.png)
 
 
 ## Credits
@@ -22,6 +22,6 @@ https://www.youtube.com/watch?v=pQr4O1OITJo&t=548s
 
 ## Submission
 
-Github: https://github.com/apietsch4117/code-quiz
+Github: https://github.com/apietsch4117/code-quiz.git
 
-Deployed Page: https://apietsch4117.github.io/code-quiz
+Deployed Page: https://apietsch4117.github.io/code-quiz/
