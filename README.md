@@ -16,6 +16,8 @@ Take the quiz and input initials at the end to be added to a scoreboard.
 
 Challenge 4 Module
 
+Used questions and CSS from the solution file per instructor suggestions
+
 https://www.youtube.com/watch?v=riDzcEQbX6k
 
 https://www.youtube.com/watch?v=pQr4O1OITJo&t=548s
